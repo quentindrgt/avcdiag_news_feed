@@ -1,0 +1,32 @@
+{
+  "news": [
+    {
+      "id": "212cbe5c40824434a3aa41154e47186e",
+      "title": "Journée mondiale contre l'AVC",
+      "description": "Chambéry : journée mondiale de sensibilisation à l'AVC présentée en vidéo",
+      "link": "http://www.savoie-news.fr/chambery-journee-mondiale-de-sensibilisation-a-lavc/",
+      "image": "https://www.savoie-news.fr/wp-content/uploads/2017/02/savoienews_share.jpg"
+    },
+    {
+      "id": "292d6c791bc14a28bd457b9d724b6b67",
+      "title": "L'AVC expliqué par le ministère de la santé",
+      "description": "Le ministère de la santé actualise son article sur les AVC",
+      "link": "https://solidarites-sante.gouv.fr/soins-et-maladies/maladies/maladies-cardiovasculaires/accident-vasculaire-cerebral-avc/article/l-accident-vasculaire-cerebral",
+      "image": "https://solidarites-sante.gouv.fr/IMG/jpg/istock_3145606__recadree.jpg"
+    },
+    {
+      "id": "af829a43cdb945d0ad1380ea365a88ea",
+      "title": "Appel au don de la fondation de recherche pour les AVC",
+      "description": "Le ministère de la santé actualise son article sur les AVC",
+      "link": "http://www.fondation-recherche-avc.org/",
+      "image": "https://www.micheldrucker.fr/wp-content/uploads/formidable/2/FONDATION-AVC-LOGO.jpg"
+    },
+    {
+      "id": "10696bd3e83d4cbf809c256f5e6bd078",
+      "title": "Éviter un AVC sur 5 est possible d'après une étude",
+      "description": "Une étude française montre que l’on peut éviter une récidive sur cinq",
+      "link": "https://www.aphp.fr/actualite/avc-une-etude-francaise-montre-que-lon-peut-eviter-une-recidive-sur-cinq",
+      "image": "https://www.aphp.fr/sites/default/files/styles/grande_image_896_x_504/public/avc.jpg?itok=QAMvM2gK"
+    }
+  ]
+}
